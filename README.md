@@ -1,3 +1,14 @@
+# User Accounts
+
+| Username   | Password          |
+|------------|-------------------|
+| rahul      | rahul@2021        |
+| praneetha  | praneetha@2021    |
+| david      | the_miller@23     |
+| mosh       | DevMosh22             |
+| henry      | henry_the_developer   |
+| robert     | WilsonRobert45        |
+
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
